@@ -23,7 +23,7 @@ Program with obfuscator and powershell 2 exe made easier
 `Code > Download ZIP`
 
 ### [+] Usage
-`Launch "main.bat"`
+`Launch "launcher.cmd"`
 
 ### [+] Screenshot
 ![screenshot](https://github.com/DARKNOSY/Ps2ExeXobfuscator/blob/main/MENU.png?raw=true)

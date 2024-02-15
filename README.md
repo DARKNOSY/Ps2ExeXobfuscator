@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Source-Yes-orange?style=flat-square">
     <img src="https://img.shields.io/badge/Maintained-Yes-cyan?style=flat-square">
     <img src="https://img.shields.io/badge/Made%20In-France-green?style=flat-square">
-    <img src="https://img.shields.io/badge/Written%20In-Batch-blue?style=flat-square">
+    <img src="https://img.shields.io/badge/Written%20In-Python-blue?style=flat-square">
 <br>
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DARKNOSY&repo=Ps2ExeXobfuscator&theme=synthwave">
 </p>

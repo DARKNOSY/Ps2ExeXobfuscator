@@ -40,4 +40,4 @@ Program with obfuscator and powershell 2 exe made easier
 
 ### [+] Credits 
  - <a href="https://github.com/DARKNOSY/Rush-Powershell-Obfuscator">Obfuscator</a>
- - <a href="[https://github.com/pyinstaller/pyinstaller](https://github.com/MScholtes/PS2EXE)https://github.com/MScholtes/PS2EXE">Ps2Exe
+ - <a href="https://github.com/MScholtes/PS2EXE">Ps2Exe

@@ -26,7 +26,7 @@ Program with obfuscator and powershell 2 exe made easier
 `Launch "launcher.cmd"`
 
 ### [+] Screenshot
-![screenshot](https://github.com/DARKNOSY/Ps2ExeXobfuscator/blob/main/MENU.png?raw=true)
+![screenshot](https://github.com/DARKNOSY/Ps2ExeXobfuscator/blob/main/menu.png?raw=true)
 
 ### [+] Features
  - Menu

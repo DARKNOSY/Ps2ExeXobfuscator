@@ -1,0 +1,13 @@
+{
+    "ps_script": "hook.ps1",
+    "exe_name": "HOOK6",
+    "icon": "False",
+    "icon_path": "Atom.ico",
+    "title": "Title",
+    "description": "Description",
+    "product": "Product",
+    "company": "Company",
+    "copyright": "Copyright",
+    "trademark": "Trademark",
+    "version": "69"
+}

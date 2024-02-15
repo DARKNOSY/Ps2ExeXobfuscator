@@ -1,5 +1,7 @@
 <h2 align="center"><u>Ps2ExeXobfuscator</u></h2>
 
+![preview](https://github.com/DARKNOSY/Ps2ExeXobfuscator/blob/main/menu.png?raw=true)
+
 <p align="center">
     <img src="https://img.shields.io/github/stars/DARKNOSY/Ps2ExeXobfuscator?style=for-the-badge&color=orange">
     <img src="https://img.shields.io/github/forks/DARKNOSY/Ps2ExeXobfuscator?style=for-the-badge&color=purple">
@@ -24,9 +26,6 @@ Program with obfuscator and powershell 2 exe made easier
 
 ### [+] Usage
 `Launch "launcher.cmd"`
-
-### [+] Screenshot
-![screenshot](https://github.com/DARKNOSY/Ps2ExeXobfuscator/blob/main/menu.png?raw=true)
 
 ### [+] Features
  - Menu

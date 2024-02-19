@@ -56,8 +56,8 @@ def save(file_path, data):
 def main():
     print("\033]0;Ps2ExeXobfuscator by DARKNOSY\007")
     
-    #get_stats()
-    #print_header()
+    get_stats()
+    print_header()
 
     key = "ps_script"
     powershell_path = input(f"Path of your powershell script: ")

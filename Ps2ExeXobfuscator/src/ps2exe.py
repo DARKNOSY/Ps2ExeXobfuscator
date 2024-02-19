@@ -15,9 +15,32 @@ copyright_ = config["copyright"]
 trademark = config["trademark"]
 version = config["version"]
 
+default = ""
+
 if not os.path.exists(ps_script):
-    print("File not found. Please check the file path and try again.")
+    print("PowerShell script not found. Please check the file path and try again.")
     exit()
+
+if icon == "True":
+    if not os.path.exists(icon_path):
+        print("Icon file not found. Please check the file path and try again.")
+        exit()
+
+if title == "Title":
+    title = default
+if description == "Description":
+    description = default
+if product == "Product":
+    product = default
+if company == "Company":
+    company = default
+if copyright_ == "Copyright":
+    copyright_ = default
+if trademark == "Trademark":
+    trademark = default
+if version == "0":
+    version = default
+
 
 obfuscated_ps_script = ps_script.replace(".ps1", "_obfuscated.ps1")
 output_exe = ps_script.replace(".ps1", ".exe")

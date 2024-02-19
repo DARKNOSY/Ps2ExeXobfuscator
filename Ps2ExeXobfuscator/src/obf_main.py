@@ -36,8 +36,8 @@ def print_header():
 def main():
     print("\033]0;Ps2ExeXobfuscator by DARKNOSY\007")
     
-    #get_stats()
-    #print_header()
+    get_stats()
+    print_header()
 
     powershell_path = input(f"Path of your powershell script: ")
     num_obf = input(f"Layers of obfuscation: ")

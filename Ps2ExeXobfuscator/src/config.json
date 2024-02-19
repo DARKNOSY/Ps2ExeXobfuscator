@@ -2,12 +2,12 @@
     "ps_script": "script.ps1",
     "exe_name": "HOOK6",
     "icon": "False",
-    "icon_path": "Atom.ico",
+    "icon_path": "icon.ico",
     "title": "Title",
     "description": "provided using Ps2ExeXobfuscator by DARKNOSY",
     "product": "Product",
     "company": "Company",
     "copyright": "Copyright",
     "trademark": "Trademark",
-    "version": "69"
+    "version": "0"
 }

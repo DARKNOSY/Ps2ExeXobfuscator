@@ -21,11 +21,11 @@
 ### [+] Description
 Program with obfuscator and powershell 2 exe made easier
 
-### [+] Installation
-`Code > Download ZIP`
-
-### [+] Usage
-`Launch "launcher.cmd"`
+### [+] Installation & Usage
+- `git clone https://github.com/DARKNOSY/Ps2ExeXobfuscator/`
+- `cd Ps2ExeXobfuscator`
+- `cd Ps2ExeXobfuscator`
+- `.\launcher.cmd`
 
 ### [+] Features
  - Menu
